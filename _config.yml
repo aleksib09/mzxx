@@ -2,7 +2,7 @@
 title: modbase64
 description: Lokmont is a responsive simple theme for Jekyll.
 baseurl: "/mzxx" # the subpath of your site, e.g. /blog
-url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aleksib09.github.io/mzxx/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
