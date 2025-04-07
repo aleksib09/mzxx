@@ -11,7 +11,7 @@ As of November 2024, the V-Series.R has four wins to its name and achieved 11 po
 
 _________________
 
-**This car uses many of the extended physics features and requires Content Manager (CM) and Custom Shader Patch 0.2.6 public (Build ID 3281) or above to work properly.**
+> *This car uses many of the extended physics features and requires Content Manager (CM) and Custom Shader Patch 0.2.6 public (Build ID 3281) or above to work properly.*
 
 Another ready to race car version from our favorite creator - VRC, the *PT Cadenza V* aka *Cadillac V-Series.R GTP* has arrived in Assetto Corsa, now we have it here! Included with real liveries from 2023, 2024, 2025 running seasons, realistic logo and ignition screen.
 
