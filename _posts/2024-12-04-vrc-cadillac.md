@@ -2,7 +2,7 @@
 layout: post
 title: Cadillac V-Series.R GTP - Real liveries
 date: 2024-12-04 18:09:50 +0300
-img: 
+img: cadillac-v-series.jpg
 tags: [AC, VRC, CSP, R2R]
 author: Theodore
 ---
