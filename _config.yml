@@ -1,6 +1,6 @@
 # Site settings
 title: modbase64
-description: Lokmont is a responsive simple theme for Jekyll.
+description: Best place to get your favorite mods for free.
 baseurl: "/mzxx" # the subpath of your site, e.g. /blog
 url: "https://aleksib09.github.io/mzxx/" # the base hostname & protocol for your site, e.g. http://example.com
 
