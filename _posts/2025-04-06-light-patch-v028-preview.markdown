@@ -23,4 +23,4 @@ An extension for Assetto Corsa which started as an attempt to add some sort dyna
 _________________
 
 ## Download:
-  - ModsFire: [127MB (Compress)](https://modsfire.com/1lcnHaXyzTGY7bP)
+  - ModsFire: [ZIP File (127MB)](https://modsfire.com/1lcnHaXyzTGY7bP)
