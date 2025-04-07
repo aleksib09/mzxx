@@ -18,7 +18,7 @@ ___________
 _________________
 
 
-> *This car uses many of the extended physics features and requires Content Manager (CM) and Custom Shader Patch 0.2.6 public (Build ID 3281) or above to work properly.*  You can get latest preview version of CSP [from here](https://aleksib09.github.io/mzxx/2025/04/06/light-patch-v028-preview/)!
+> *This car uses many of the extended physics features and requires Content Manager (CM) and Custom Shader Patch 0.2.6 public (Build ID 3281) or above to work properly.*  You can get latest preview version of CSP [from here](https://cignature.co/2025/04/06/light-patch-v028-preview/)!
 
 Ready to race version included with realistic logo, liveries running by real team in IMSA, IGTC, GTWC, WEC,... Enjoy it!
 
