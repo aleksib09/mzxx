@@ -15,5 +15,5 @@ _________________
 
 Another ready to race car version from our favorite creator - VRC, the ***PT Cadenza V*** aka **Cadillac V-Series.R GTP** has arrived in Assetto Corsa, now we have it here! Included with real liveries from 2023, 2024, 2025 running seasons, realistic logo and ignition screen.
 
-## Download Link
-- ModsFire: [720MB Download](https://modsfire.com/IOAEnAx4q2kaY5f)
+## Download
+  - ModsFire: [720MB D(Compress](https://modsfire.com/IOAEnAx4q2kaY5f)
