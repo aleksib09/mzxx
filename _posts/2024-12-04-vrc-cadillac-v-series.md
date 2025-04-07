@@ -2,7 +2,7 @@
 layout: post
 title: R2R @ Cadillac V-Series.R GTP - VRC PT Cadenza V
 date: 2024-12-04 18:09:50 +0300
-img: cadillac-v-series.jpg
+img: cadillac-v-series-r.jpg
 tags: [AC, VRC, CSP, R2R]
 author: Theodore
 ---
@@ -16,4 +16,4 @@ _________________
 Another ready to race car version from our favorite creator - VRC, the ***PT Cadenza V*** aka **Cadillac V-Series.R GTP** has arrived in Assetto Corsa, now we have it here! Included with real liveries from 2023, 2024, 2025 running seasons, realistic logo and ignition screen.
 
 ## Download
-  - ModsFire: [720MB D(Compress](https://modsfire.com/IOAEnAx4q2kaY5f)
+  - ModsFire: [ZIP File 720MB (Compress](https://modsfire.com/IOAEnAx4q2kaY5f)
