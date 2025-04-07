@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [R2R] Cadillac V-Series.R GTP - VRC PT Cadenza V
+title: R2R \ Cadillac V-Series.R GTP - VRC PT Cadenza V
 date: 2024-12-04 18:09:50 +0300
 img: cadillac-v-series.jpg
 tags: [AC, VRC, CSP, R2R]
