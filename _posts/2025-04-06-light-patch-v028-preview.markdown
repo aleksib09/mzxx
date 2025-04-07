@@ -2,7 +2,7 @@
 layout: post
 title: Custom Shader Patch v0.2.8 preview1
 date: 2025-04-06 18:09:50 +0300
-img: _e.png
+img: csp.png
 tags: [AC, CSP, CM, preview]
 author: Theodore
 ---
