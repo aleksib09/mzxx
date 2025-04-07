@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cadillac V-Series.R GTP (VRC Cadenza V) - Real liveries
+title: Cadillac V-Series.R GTP - Real liveries
 date: 2025-04-07 18:09:50 +0300
 img: cadillac-v-series.jpg
 tags: [AC, VRC, CSP, R2R]
