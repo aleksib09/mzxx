@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 10 Best books of all time
-date: 2017-10-27 18:09:50 +0300
-img: 17.jpg
-tags: [Books, Hobby]
-author: Natali_Braxton
+title: [R2R] Cadillac V-Series.R GTP (VRC Cadenza V) - Real liveries
+date: 2025-04-07 18:09:50 +0300
+img: cadillac-v-series.jpg
+tags: [AC, VRC, CSP, R2R]
+author: Theodore
 ---
-Neutra cornhole fanny pack brooklyn dreamcatcher hashtag bitters pickled YOLO photo booth deep v single-origin coffee portland cloud bread. Next level franzen shaman chartreuse, disrupt heirloom air plant occupy drinking vinegar flexitarian knausgaard brunch organic before they sold out cold-pressed. Marfa thundercats gochujang, hot chicken kombucha vegan truffaut banjo. Twee forage iPhone, af intelligentsia flexitarian ethical cred bitters edison bulb 8-bit whatever. Tofu health goth kinfolk, mumblecore mixtape tacos kombucha organic. Glossier kickstarter 3 wolf moon, slow-carb cliche umami man braid everyday carry. Bespoke asymmetrical pinterest slow-carb. Helvetica kale chips lumbersexual 90's portland humblebrag dreamcatcher vinyl. Ennui brunch cred, cliche sartorial godard wayfarers tumblr. Yuccie bicycle rights tumeric tousled chartreuse. Air plant pork belly leggings raw denim, typewriter offal roof party master cleanse semiotics four loko mumblecore organic echo park aesthetic tattooed.
+The Cadillac V-Series.R, originally named the Cadillac V-LMDh, is a sports prototype racing car designed by Cadillac and built by Dallara. It is designed to the Le Mans Daytona h regulations, and debuted in the IMSA SportsCar Championship at the season opening 24 Hours of Daytona.[6][7] The car is also contesting the FIA World Endurance Championship from 2023 onwards.[8] The engine's 5.5L displacement is the largest displacement of any of the GTP cars debuted in the revival of the GTP class at the 24 Hours of Daytona.[9]
+
+As of November 2024, the V-Series.R has four wins to its name and achieved 11 podiums finishes and took the Teams, Drivers' and Manufacturers' Championships of the 2023 IMSA SportsCar Championship season.
 
 ### You need a little dummy text
 
