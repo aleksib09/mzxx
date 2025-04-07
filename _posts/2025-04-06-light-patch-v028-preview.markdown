@@ -8,12 +8,9 @@ author: Theodore
 ---
 An extension for Assetto Corsa which started as an attempt to add some sort dynamic lighting, hence the name. Still in development, as usual.
 
-**We’d like to thank the Kunos developers for all of the effort they put into making AC such a great simulator and giving us an excellent basis for our work.**
+*We’d like to thank the Kunos developers for all of the effort they put into making AC such a great simulator and giving us an excellent basis for our work.*
 
-_________________
-
-
-Some of features:
+**Some of features:**
   - Various physics extensions by mclarenf1papa
   - Optimizations and fixes
   - Dynamic lights as part of Lighting FX
@@ -23,5 +20,7 @@ Some of features:
   - Car extensions: reverse lights, turning signals, working odometers and more
   - And more (still compiling the full list)
 
+_________________
+
 ## Download:
-  - ModsFire: [127MB (Compress)](https://modsfire.com/IOAEnAx4q2kaY5f)
+  - ModsFire: [127MB (Compress)](https://modsfire.com/1lcnHaXyzTGY7bP)
