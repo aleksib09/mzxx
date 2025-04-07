@@ -14,7 +14,7 @@ _________________
 {% highlight markdown %}
  *This car uses many of the extended physics features and requires Content Manager (CM) and Custom Shader Patch 0.2.6 public (Build ID 3281) or above to work properly.* You can get latest preview version of CSP [from here](https://aleksib09.github.io/mzxx/2025/04/06/light-patch-v028-preview/)!
 
- {% end highlight %}
+ {% endhighlight %}
 
 Another ready to race car version from our favorite creator - VRC, the ***PT Cadenza V*** aka **Cadillac V-Series.R GTP** has arrived in Assetto Corsa, now we have it here! Included with real liveries from 2023, 2024, 2025 running seasons, realistic logo and ignition screen.
 
