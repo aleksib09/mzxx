@@ -346,7 +346,7 @@ html {
 }
 
 body {
-  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   color: rgba(0, 0, 0, 0.8);
   background-color: #ffffff;
