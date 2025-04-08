@@ -12,8 +12,14 @@ The BMW M4 GT3 is the race car version of the BMW M4 (G82) and the direct succes
 ___________
 
 
-<img src="/images/pages/urd_bayro_gt3_1.jpg" class="rounded float-left" alt="urd_bayro_gt3">
-<img src="/images/pages/urd_bayro_gt3_2" class="rounded float-right" alt="urd_bayro_gt3">
+<img src="/images/pages/urd_bayro_gt3_1.png" class="rounded float-left" alt="urd_bayro_gt3">
+
+<img src="/images/pages/urd_bayro_gt3_2.png" class="rounded float-right" alt="urd_bayro_gt3">
+
+<img src="/images/pages/urd_bayro_gt3_3.png" class="rounded float-right" alt="urd_bayro_gt3">
+
+<img src="/images/pages/urd_bayro_gt3_4.png" class="rounded float-right" alt="urd_bayro_gt3">
+
 
 _________________
 
