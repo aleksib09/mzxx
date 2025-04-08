@@ -12,13 +12,13 @@ The BMW M4 GT3 is the race car version of the BMW M4 (G82) and the direct succes
 ___________
 
 
-<img src="" class="rounded float-left" alt="...">
-<img src="..." class="rounded float-right" alt="...">
+<img src="/images/pages/urd_bayro_gt3_1.jpg" class="rounded float-left" alt="urd_bayro_gt3">
+<img src="/images/pages/urd_bayro_gt3_2" class="rounded float-right" alt="urd_bayro_gt3">
 
 _________________
 
 
-> *This car uses many of the extended physics features and requires Content Manager (CM) and Custom Shader Patch 0.2.6 public (Build ID 3281) or above to work properly.*  You can get latest preview version of CSP [from here](https://cignature.co/2025/04/06/light-patch-v028-preview/)!
+> *This car uses many of the extended physics features and requires Content Manager (CM) and Custom Shader Patch 0.2.6 public (Build ID 3281) or above to work properly.*  You can get latest preview version of CSP [from here](/light-patch-v028-preview.html)!
 
 Ready to race version included with realistic logo, liveries running by real team in IMSA, IGTC, GTWC, WEC,... Enjoy it!
 
