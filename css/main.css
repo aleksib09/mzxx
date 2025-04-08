@@ -1693,7 +1693,7 @@ table tr:hover {
 .site-footer .footer-wrapper {
   position: relative;
   z-index: 1;
-  padding: 100px 15px;
+  padding: 20px 15px;
 }
 
 .site-footer .footer-heading {
