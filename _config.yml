@@ -53,7 +53,7 @@ disqus-identifier:  # Add your shortname for Disqus Comment. For example mr-brow
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title:output_ext
 paginate: 9
 paginate_path: "/page/:num"
 
