@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cignature.co" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
-hero: csp.jpg
+hero: vcsp.jpg
 hero-title: Assetto Corsa Mods
 hero-description: Best place to get your favorite mods for free.
 
