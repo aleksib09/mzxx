@@ -2,7 +2,7 @@
 title: cignature64
 description: Best place to get your favorite mods for free.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/mzxx" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aleksib09.github.io/mzxx/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: vcsp.jpg
